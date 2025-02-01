@@ -10,9 +10,11 @@
 - 📫 How to reach me:
 </p>
 <a href="https://www.linkedin.com/in/ngoquocduyanh/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"/>
+<a href="anh.ngo@yseali.fulbright.edu.vn">
+  <img height="50" src="https://img.icons8.com/?size=100&id=czpd3OfwK2l4&format=png&color=000000"/>
 </a>
-
+  
 ## About Me and My Interests
 
 ```yaml
