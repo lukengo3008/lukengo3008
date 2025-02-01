@@ -13,3 +13,31 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
+## About Me and My Interests
+
+```yaml
+name: Anh Ngo (Luke)
+located_in: Auckland, New Zealand
+current_job: Full-time Researcher and Learner
+education:
+  [
+    "Master of Data Science - Liverpool John Moores University",
+    "Master of Business Analytics - The University of Auckland",
+    "Master of Business Administration",
+    "Bachelor of International Business (Foreign Trade)",
+  ]
+company: Ministry for Primary Industries, New Zealand
+
+fields_of_interests:
+  [
+    "Data Science",
+    "Machine Learning",
+    "Deep Laerning",
+    "Statistical Modeling",
+    "Programming",
+  ]
+
+currently_learning: ["Project Management, Advance R, and Writing new Book"]
+2025 Goal: ["Further Learning to pursue a PhD"]
+hobbies: ["Reading", "Travelling", "Extreme Sports", "Art", "Comedy"]
+```
