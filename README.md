@@ -66,3 +66,5 @@ hobbies: ["Reading", "Travelling", "Extreme Sports", "Art", "Comedy"]
 <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" width="45" height="45"/>
 <img src="https://img.icons8.com/?size=100&id=JIca3PdDDoXN&format=png&color=000000" width="45" height="45"/>
 </p>
+
+![Snake animation](https://github.com/lukengo3008/lukengo3008/blob/output/github-contribution-grid-snake.svg)
