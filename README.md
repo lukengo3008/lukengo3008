@@ -1,16 +1,11 @@
-## Hi there 👋
+## Hello everyone 👋
 
-<!--
-**lukengo3008/lukengo3008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at Ministry for Primary Industries in New Zealand.
+- 🌱 I’m learning Data Science and Business Analytics.
+- 👯 I’m looking to collaborate on Data Science and AI-driven techniques toward sustainability impacts ans social contributions.
+- 💬 Ask me about Data Science, Analytics Tools, Business Domain Knowledge, Career Advices and Consultances, Soft Skills Training.
+- 📫 How to reach me: 
+- ⚡ Fun fact: friends call me crazy on purpose as I'm taking triple master degrees in MBA, Data Science, and Business Analytics.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
