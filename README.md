@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
 <img class="center" height="300" src="https://www.savagept.com/wp-content/uploads/2016/10/Depositphotos_58116935_l-2015-1030x715.jpg" alt="Centered Image">
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=000000&size=25&lines=Kia+Ora+Everyone+👋)](https://git.io/typing-svg)
